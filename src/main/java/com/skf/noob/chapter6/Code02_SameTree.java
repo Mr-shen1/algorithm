@@ -6,7 +6,7 @@ package com.skf.noob.chapter6;
  * @author: shenkefeng
  * @date: 2023/08/17
  */
-public class Code2_SameTree {
+public class Code02_SameTree {
     public static class TreeNode {
         int val;
         TreeNode left;
